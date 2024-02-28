@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int main() {
+
+	const double PI = 3.141592;
+	double dTrostrukiPI;
+
+	dTrostrukiPI = 3 * PI;
+	printf("%f", dTrostrukiPI);
+
+	return 0;
+}
