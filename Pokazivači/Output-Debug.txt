@@ -1,0 +1,13 @@
+﻿'Zadatak 12 pokativaci.exe' (Win32): Loaded 'C:\Users\Jovana\source\repos\Zadatak 12 pokativaci\Debug\Zadatak 12 pokativaci.exe'. Symbols loaded.
+'Zadatak 12 pokativaci.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Zadatak 12 pokativaci.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Zadatak 12 pokativaci.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Zadatak 12 pokativaci.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Zadatak 12 pokativaci.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+'Zadatak 12 pokativaci.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Zadatak 12 pokativaci.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Zadatak 12 pokativaci.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x28c8 has exited with code 0 (0x0).
+The thread 0x36a0 has exited with code 0 (0x0).
+The thread 0x42c0 has exited with code 0 (0x0).
+The program '[4020] Zadatak 12 pokativaci.exe' has exited with code 0 (0x0).
